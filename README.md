@@ -3,9 +3,11 @@
 These are just some of the basic methods for these data structures in Python. Keep in mind that Python has a rich standard library, and there are more methods and functionalities available for each data structure.
 # 1. List:
 Creating a list
+
 my_list = [1, 2, 3, 4, 5]
 
 Methods
+
 my_list.append(6)       # Add an element to the end
 
 my_list.extend([7, 8])  # Extend the list by appending elements from the iterable
