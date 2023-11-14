@@ -28,3 +28,13 @@ my_list.reverse()       # Reverse the elements of the list
 
 --------------------------------------------------------------------------------------------------------------------------------
 # 2. Tuple:
+Creating a tuple
+
+my_tuple = (1, 2, 3, 4, 5)
+
+Tuples are immutable, so they have fewer methods compared to lists
+
+index = my_tuple.index(3)  # Return the index of the first occurrence of a value
+
+count = my_tuple.count(5)  # Return the number of occurrences of a value
+
