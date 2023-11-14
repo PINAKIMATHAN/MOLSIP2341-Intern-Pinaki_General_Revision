@@ -1,4 +1,6 @@
 # MOLSIP2341-Intern-Pinaki_General_Revision
+![Presentation1](https://github.com/PINAKIMATHAN/MOLSIP2341-Intern-Pinaki_General_Revision/assets/107812574/bea53eb5-2458-40f5-a164-406547ee0bed)
+
 
 These are just some of the basic methods for these data structures in Python. Keep in mind that Python has a rich standard library, and there are more methods and functionalities available for each data structure.
 # 1. List:
